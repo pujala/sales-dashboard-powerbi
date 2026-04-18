@@ -82,7 +82,8 @@ The solution demonstrates end-to-end data handling—from data storage and query
 
 ## Dashboard Preview
 
-<img width="1342" height="745" alt="image" src="https://github.com/user-attachments/assets/0f1a1213-39de-4916-bc7d-5980522e4145" />
+<img width="1357" height="737" alt="image" src="https://github.com/user-attachments/assets/8c49fa40-6e20-457b-b5ca-4193ef760df1" />
+
 
 
 ---
